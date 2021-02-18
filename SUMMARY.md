@@ -5,7 +5,11 @@
 ## Tools
 
 * [Recon](tools/recon.md)
-* [Basic Tools](tools/basic-tools.md)
-* [Windows Boxes](tools/windows-boxes.md)
+* [Basic](tools/basic.md)
+* [Windows](tools/windows.md)
 * [Command Line](tools/command-line.md)
+
+## CTFs
+
+* [I'm stuck](ctfs/im-stuck.md)
 

@@ -1,4 +1,4 @@
-# Windows Boxes
+# Windows
 
 ## SMB
 
